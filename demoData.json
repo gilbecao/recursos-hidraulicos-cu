@@ -1,0 +1,107 @@
+{
+    "trimestre": "Q3 2023",
+    "ubicacion": {
+        "latitud": 23.1537,
+        "longitud": -81.2454,
+        "nombre": "Varadero, Cuba"
+    },
+    "datos": [
+      {
+        "fecha": "2023-07-01",
+        "turbidez": 15.2,
+        "temperatura": 25.5,
+        "conductividad": 350.1,
+        "ph": 7.0,
+        "suspension_solidos_totales": 28.3
+      },
+      {
+        "fecha": "2023-07-08",
+        "turbidez": 14.8,
+        "temperatura": 25.8,
+        "conductividad": 355.2,
+        "ph": 7.2,
+        "suspension_solidos_totales": 27.9
+      },
+      {
+        "fecha": "2023-07-15",
+        "turbidez": 15.0,
+        "temperatura": 26.0,
+        "conductividad": 358.5,
+        "ph": 7.1,
+        "suspension_solidos_totales": 28.1
+      },
+      {
+        "fecha": "2023-07-22",
+        "turbidez": 15.3,
+        "temperatura": 25.7,
+        "conductividad": 354.7,
+        "ph": 7.3,
+        "suspension_solidos_totales": 28.5
+      },
+      {
+        "fecha": "2023-07-29",
+        "turbidez": 15.5,
+        "temperatura": 25.9,
+        "conductividad": 360.2,
+        "ph": 7.0,
+        "suspension_solidos_totales": 28.7
+      },
+      {
+        "fecha": "2023-08-05",
+        "turbidez": 15.1,
+        "temperatura": 25.6,
+        "conductividad": 355.8,
+        "ph": 7.2,
+        "suspension_solidos_totales": 28.0
+      },
+      {
+        "fecha": "2023-08-12",
+        "turbidez": 15.4,
+        "temperatura": 25.7,
+        "conductividad": 357.3,
+        "ph": 7.1,
+        "suspension_solidos_totales": 28.4
+      },
+      {
+        "fecha": "2023-08-19",
+        "turbidez": 15.6,
+        "temperatura": 25.8,
+        "conductividad": 359.2,
+        "ph": 7.2,
+        "suspension_solidos_totales": 28.2
+      },
+      {
+        "fecha": "2023-08-26",
+        "turbidez": 15.2,
+        "temperatura": 25.9,
+        "conductividad": 356.8,
+        "ph": 7.0,
+        "suspension_solidos_totales": 28.6
+      },
+      {
+        "fecha": "2023-09-02",
+        "turbidez": 15.0,
+        "temperatura": 26.0,
+        "conductividad": 358.9,
+        "ph": 7.1,
+        "suspension_solidos_totales": 28.3
+      },
+      {
+        "fecha": "2023-09-09",
+        "turbidez": 15.3,
+        "temperatura": 25.8,
+        "conductividad": 355.7,
+        "ph": 7.3,
+        "suspension_solidos_totales": 28.4
+      },
+      {
+        "fecha": "2023-09-16",
+        "turbidez": 15.5,
+        "temperatura": 26.1,
+        "conductividad": 360.1,
+        "ph": 7.2,
+        "suspension_solidos_totales": 28.1
+      }
+    ]
+  }
+  
